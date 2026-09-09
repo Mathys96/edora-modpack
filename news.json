@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "mtthlop1",
+    "tag": "IMPORTANT",
+    "title": "Bienvenue sur le nouveau Launcher",
+    "body": "C'est officiel : l'ancien site d'Edora tire sa révérence. Son mode histoire, découpé en chapitres, a porté l'aventure jusqu'ici, mais cette manière de raconter Edora est désormais abandonnée.\n\nPlace à un nouveau concept, repensé de zéro : plus de suivi narratif obligatoire par chapitres, place à une guerre de voisinage permanente, sans fil rouge à rattraper. Un nouveau style, une nouvelle ambiance, et une toute nouvelle manière de jouer à Edora.\n\nPour rappel, il n'y a eu que deux chapitres : le Chapitre I, puis le Chapitre II. Ce dernier a fermé au bout d'à peine un mois, sur décision de la communauté elle-même — l'histoire n'a donc jamais pu être poursuivie, et encore moins terminée. Les deux chapitres restent accessibles en archive pour celles et ceux qui veulent s'y replonger, mais tout ce qui arrive à partir de maintenant se construit ici, sur ce site.",
+    "date": "2026-09-09T02:36:22.213Z",
+    "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mtthlop1.jpg",
+    "imagePath": "news-images/mtthlop1.jpg"
+  }
+]
