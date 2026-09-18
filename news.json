@@ -28,5 +28,15 @@
     "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mu4pxxp8.jpg",
     "imagePath": "news-images/mu4pxxp8.jpg",
     "version": null
+  },
+  {
+    "id": "mu7mdnqs",
+    "tag": "OUVERTURE",
+    "title": "EDORA SAISON 2 ! - Bienvenue.",
+    "body": "Après plusieurs mois de développement et une première tentative avec le Chapitre II, Edora revient à ses origines : un RP simple, libre et surtout fun, sans lore scénarisé ni contraintes inutiles.\n\nVous commencez tous ensemble sur une map vierge, avant de développer progressivement votre village, vos maisons, vos commerces et vos propres projets. Chacun est libre de s'installer et de construire comme il le souhaite, dans les limites de la carte afin de conserver une véritable proximité entre les joueurs.\n\nUn nouveau modpack et une nouvelle map arrivent à chaque saison, avec toujours plus de fun, de communauté, de survie, de construction et d'exploration. Chaque saison dure plusieurs mois, avec une nouvelle saison lancée environ une fois par an.",
+    "date": "2026-09-18T23:58:52.276Z",
+    "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mu7mdnqs.jpg",
+    "imagePath": "news-images/mu7mdnqs.jpg",
+    "version": null
   }
 ]
