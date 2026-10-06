@@ -1,18 +1,23 @@
 {
   "backgrounds": [],
-  "launcherHistory": {},
-  "launcher": {
-    "version": "1.1.5",
-    "tag": "launcher-v1.1.5",
-    "downloadUrl": "https://github.com/Mathys96/edora-modpack/releases/download/launcher-v1.1.5/Edora-Launcher-Setup-1.1.5.exe",
-    "size": 76543794,
-    "sha256": "ef41e75d67f2a14409cf4ae6a29070ddcf2b8f2460a97d88bcd3f33710d1afae",
-    "notes": "",
-    "publishedAt": "2026-10-06T23:29:25Z",
-    "asar": {
-      "url": "https://github.com/Mathys96/edora-modpack/releases/download/launcher-v1.1.5/Edora-Launcher-app-1.1.5.asar",
-      "size": 1008976,
-      "sha256": "f3020d033a5a06a53fbbaf9fffccedc19309b644fd5b0d894724aba2a3fbe7e6"
+  "launcherHistory": {
+    "1.1.6": {
+      "version": "1.1.6",
+      "tag": "launcher-v1.1.6",
+      "downloadUrl": "https://github.com/Mathys96/edora-modpack/releases/download/launcher-v1.1.6/Edora-Launcher-Setup-1.1.6.exe",
+      "size": 76542634,
+      "sha256": "f7d8cc39e219997217665674cc69f659e0d0059511c007bb1b4c208e38ad0cef",
+      "notes": "",
+      "publishedAt": "2026-10-07T00:40:13.712Z"
     }
+  },
+  "launcher": {
+    "version": "1.1.6",
+    "tag": "launcher-v1.1.6",
+    "downloadUrl": "https://github.com/Mathys96/edora-modpack/releases/download/launcher-v1.1.6/Edora-Launcher-Setup-1.1.6.exe",
+    "size": 76542634,
+    "sha256": "f7d8cc39e219997217665674cc69f659e0d0059511c007bb1b4c208e38ad0cef",
+    "notes": "",
+    "publishedAt": "2026-10-07T00:40:13.712Z"
   }
 }
