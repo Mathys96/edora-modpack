@@ -1,5 +1,12 @@
 {
-  "backgrounds": [],
+  "backgrounds": [
+    {
+      "id": "bg-muxbbkep-9f0d",
+      "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/launcher-backgrounds/bg-muxbbkep-9f0d.jpg",
+      "path": "launcher-backgrounds/bg-muxbbkep-9f0d.jpg",
+      "addedAt": "2026-10-06T23:31:21.012Z"
+    }
+  ],
   "launcherHistory": {
     "1.1.2": {
       "version": "1.1.2",
