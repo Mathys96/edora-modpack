@@ -27,6 +27,7 @@
     "size": 76543400,
     "sha256": "71f6053938ccef663b2d5ee9ef5dd400b5f4f1a221e106e73b57d2442eb3a161",
     "notes": "",
-    "publishedAt": "2026-10-07T01:26:49.579Z"
+    "publishedAt": "2026-10-07T01:26:49.579Z",
+    "reinstallAt": 1791337124860
   }
 }
