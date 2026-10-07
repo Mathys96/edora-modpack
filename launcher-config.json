@@ -9,16 +9,24 @@
       "sha256": "81c03ec5d82b7372ebbd7e755e51294ed2b0cf402686641ac86911c8a9778009",
       "notes": "",
       "publishedAt": "2026-10-07T01:09:44.820Z"
+    },
+    "1.1.9": {
+      "version": "1.1.9",
+      "tag": "launcher-v1.1.9",
+      "downloadUrl": "https://github.com/Mathys96/edora-modpack/releases/download/launcher-v1.1.9/Edora-Launcher-Setup-1.1.9.exe",
+      "size": 76543400,
+      "sha256": "71f6053938ccef663b2d5ee9ef5dd400b5f4f1a221e106e73b57d2442eb3a161",
+      "notes": "",
+      "publishedAt": "2026-10-07T01:26:49.579Z"
     }
   },
   "launcher": {
-    "version": "1.1.8",
-    "tag": "launcher-v1.1.8",
-    "downloadUrl": "https://github.com/Mathys96/edora-modpack/releases/download/launcher-v1.1.8/Edora-Launcher-Setup-1.1.8.exe",
-    "size": 76543329,
-    "sha256": "81c03ec5d82b7372ebbd7e755e51294ed2b0cf402686641ac86911c8a9778009",
+    "version": "1.1.9",
+    "tag": "launcher-v1.1.9",
+    "downloadUrl": "https://github.com/Mathys96/edora-modpack/releases/download/launcher-v1.1.9/Edora-Launcher-Setup-1.1.9.exe",
+    "size": 76543400,
+    "sha256": "71f6053938ccef663b2d5ee9ef5dd400b5f4f1a221e106e73b57d2442eb3a161",
     "notes": "",
-    "publishedAt": "2026-10-07T01:09:44.820Z",
-    "reinstallAt": 1791335877817
+    "publishedAt": "2026-10-07T01:26:49.579Z"
   }
 }
