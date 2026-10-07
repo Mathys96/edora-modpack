@@ -28,5 +28,9 @@
     "sha256": "6d4b55dce2ef78deb7997a5db5c53ce3099dfd4368edd43aea1aad3c8bb92710",
     "notes": "",
     "publishedAt": "2026-10-07T02:32:51.724Z"
+  },
+  "server": {
+    "ip": "91.197.6.68",
+    "port": 22681
   }
 }
