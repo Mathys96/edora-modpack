@@ -38,5 +38,15 @@
     "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mv657dt7.png",
     "imagePath": "news-images/mv657dt7.png",
     "version": null
+  },
+  {
+    "id": "mvb738a3",
+    "tag": "MODPACK",
+    "title": "Grosse mise à jour 1.2.0 — Edora's Economy",
+    "body": "Un tout nouveau gros mode débarque sur Edora RP Saison 2 et change complètement la manière de gérer l'argent et le commerce !\n\nEdora's Economy rassemble désormais monnaie, banque, quêtes et commerce dans un seul mode.\n\nLes nouveautés :\n\n- Nouvelle monnaie : l'Edor (E), avec pièces, billets, porte-monnaie, comptes bancaires, ATM et chèques.\n- Plus de 100 quêtes : accomplissez des missions auprès des habitants pour gagner de l'argent.\n- Marchands interactifs : achetez, vendez et négociez les prix selon vos relations avec les PNJ.\n- Commerce entre joueurs : ouvrez votre propre boutique grâce aux vitrines.\n- Imprimantes clandestines : imprimez vos propres billets, au risque de rater votre impression.\n- Kuro's Economy est retiré : l'ancienne monnaie et ses ATM disparaissent.\n\nEdora Things reçoit également une mise à jour !\n\n- Tous les objets sont désormais craftables en survie.\n- Plusieurs bugs ont été corrigés.\n\nMettez votre modpack à jour depuis le launcher Edora pour profiter de toutes ces nouveautés !",
+    "date": "2026-10-16T16:41:38.475Z",
+    "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mvb738a3.png",
+    "imagePath": "news-images/mvb738a3.png",
+    "version": "v1.2.0"
   }
 ]
