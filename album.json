@@ -12238,8 +12238,7 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mvo0brm6-4.jpg",
     "caption": "",
     "addedAt": "2026-10-25T15:53:14.192Z",
-    "takenAt": "2026-10-22",
-    "dayCover": true
+    "takenAt": "2026-10-22"
   },
   {
     "filename": "mvo0bsry-5.jpg",
@@ -12323,7 +12322,8 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mvo0c3zw-16.jpg",
     "caption": "",
     "addedAt": "2026-10-25T15:53:14.192Z",
-    "takenAt": "2026-10-22"
+    "takenAt": "2026-10-22",
+    "dayCover": true
   },
   {
     "filename": "mvo0c59i-17.jpg",
