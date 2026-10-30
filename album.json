@@ -13189,7 +13189,8 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mvvlvtin-1.jpg",
     "caption": "",
     "addedAt": "2026-10-30T23:31:09.166Z",
-    "takenAt": "2026-10-28"
+    "takenAt": "2026-10-28",
+    "dayCover": true
   },
   {
     "filename": "mvvlvung-2.jpg",
@@ -13273,8 +13274,7 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mvvlw65f-13.jpg",
     "caption": "",
     "addedAt": "2026-10-30T23:31:09.166Z",
-    "takenAt": "2026-10-28",
-    "dayCover": true
+    "takenAt": "2026-10-28"
   },
   {
     "filename": "mvvlw762-14.jpg",
