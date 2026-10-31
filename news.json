@@ -48,5 +48,15 @@
     "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mvb738a3.png",
     "imagePath": "news-images/mvb738a3.png",
     "version": "v1.2.0"
+  },
+  {
+    "id": "mvwr881z",
+    "tag": "NOUVEAUTE",
+    "title": "Découvrez Edora Guns - De nouvelles armes débarquent sur Edora !",
+    "body": "Edora Guns - De nouvelles armes débarquent sur Edora !\n\nL'arsenal d'Edora change complétement ! Découvrez Edora Guns, le nouveau mode qui remplace définitivement l'ancien système d'armes.\n\nDécouvrez 11 nouvelles armes entièrement fabricables :\n\nPistolet et revolver.\n\n- Mitraillette et Thompson.\n- Fusil d'assaut et fusil semi-automatique.\n- Fusil de précision et fusil de précision lourd avec lunette.\n- Fusil à pompe, double canon et pompe automatique.\n\n4 types de munitions sont également disponibles : balles de pistolet, balles de fusil, balles en diamant et cartouches.\n\nPréparez-vous à découvrir un tout nouvel arsenal sur Edora !\n\nBon jeu à toutes et à tous !",
+    "date": "2026-10-31T18:48:33.479Z",
+    "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mvwr881z.png",
+    "imagePath": "news-images/mvwr881z.png",
+    "version": "v1.3.0"
   }
 ]
