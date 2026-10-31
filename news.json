@@ -58,5 +58,15 @@
     "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mvwr881z.png",
     "imagePath": "news-images/mvwr881z.png",
     "version": "v1.3.0"
+  },
+  {
+    "id": "mvwrgkuw",
+    "tag": "MODPACK",
+    "title": "Mise à jour majeure du modpack 1.3.0 — Edora Mobility",
+    "body": "La plus grosse mise à jour d'Edora à ce jour est enfin disponible ! Avec cette version 1.3.0, découvrez notamment Edora's Mobility, un tout nouveau mod qui introduit les véhicules sur le serveur !\n\nAu programme également : des améliorations économiques, de nouvelles bornes d'arcade et de nombreuses corrections de bugs.\n\nDécouvrez les nouveautés !\n\n1・Edora's Mobility — Nouveau mod\n\nLes véhicules font leur arrivée sur Edora !\n\n- Nouvelle décapotable rétro disponible en 8 coloris.\n- Mini scooter disponible en 10 coloris et pouvant accueillir 2 joueurs.\n- 5 modèles de jantes 3D.\n- Coffre de scooter personnalisable avec espace de stockage.\n- Clés et télécommandes pour verrouiller les véhicules.\n- Plaques tournantes et présentoirs pour exposer les véhicules.\n- Nouveaux éléments de décoration pour les garages.\n- Présentoir pour la vente de véhicules.\n\n2・Edora's Economy — Version 1.5.6\n\nLe système économique accueille plusieurs nouveautés :\n\n- Nouveaux modèles de distributeurs automatiques : moderne et rétro retravaillés.\n- Ajout des virements bancaires entre ses comptes, vers d'autres joueurs et vers des comptes professionnels ou communs.\n\n3・Arcade — Mise à jour\n\n- Ajout de nouvelles bornes d'arcade.\n- Corrections de bugs et améliorations générales.\n\n4・Corrections de bugs\n\nPlusieurs corrections ont également été apportées :\n\n- Tables de jeux et tableau des scores du casino.\n- Table de billard.\n- Télévisions : correction des écrans invisibles et des problèmes d'affichage chez certains joueurs.\n\n\nCette version 1.3.0 apporte une évolution majeure au modpack !\n\nBon jeu à toutes et à tous sur Edora !\n",
+    "date": "2026-10-31T18:55:03.320Z",
+    "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mvwrgkuw.png",
+    "imagePath": "news-images/mvwrgkuw.png",
+    "version": null
   }
 ]
