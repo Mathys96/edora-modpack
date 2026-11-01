@@ -13891,7 +13891,8 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mvx4t516-4.jpg",
     "caption": "",
     "addedAt": "2026-11-01T01:08:38.983Z",
-    "takenAt": "2026-11-01"
+    "takenAt": "2026-11-01",
+    "dayCover": true
   },
   {
     "filename": "mvx4t601-5.jpg",
@@ -13947,8 +13948,7 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mvx4tdgy-12.jpg",
     "caption": "",
     "addedAt": "2026-11-01T01:08:38.983Z",
-    "takenAt": "2026-11-01",
-    "dayCover": true
+    "takenAt": "2026-11-01"
   },
   {
     "filename": "mvx4tefr-13.jpg",
