@@ -15069,8 +15069,7 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mw45dsaq-8.jpg",
     "caption": "",
     "addedAt": "2026-11-05T22:58:59.536Z",
-    "takenAt": "2026-11-05",
-    "dayCover": true
+    "takenAt": "2026-11-05"
   },
   {
     "filename": "mw45dtc9-9.jpg",
@@ -15084,7 +15083,8 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mw45due2-10.jpg",
     "caption": "",
     "addedAt": "2026-11-05T22:58:59.536Z",
-    "takenAt": "2026-11-05"
+    "takenAt": "2026-11-05",
+    "dayCover": true
   },
   {
     "filename": "mw45dvf2-11.jpg",
