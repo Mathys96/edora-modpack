@@ -15317,7 +15317,8 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mwbed48c-19.jpg",
     "caption": "",
     "addedAt": "2026-11-11T00:44:32.416Z",
-    "takenAt": "2026-11-07"
+    "takenAt": "2026-11-07",
+    "dayCover": true
   },
   {
     "filename": "mwbed5hr-20.jpg",
@@ -15331,8 +15332,7 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mwbed6ov-21.jpg",
     "caption": "",
     "addedAt": "2026-11-11T00:44:32.416Z",
-    "takenAt": "2026-11-07",
-    "dayCover": true
+    "takenAt": "2026-11-07"
   },
   {
     "filename": "mwbed7s1-22.jpg",
