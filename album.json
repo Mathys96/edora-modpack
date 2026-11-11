@@ -16054,8 +16054,7 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mwbendgw-4.jpg",
     "caption": "",
     "addedAt": "2026-11-11T00:52:52.725Z",
-    "takenAt": "2026-11-10",
-    "dayCover": true
+    "takenAt": "2026-11-10"
   },
   {
     "filename": "mwbenef0-5.jpg",
@@ -16111,7 +16110,8 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mwbenm1q-12.jpg",
     "caption": "",
     "addedAt": "2026-11-11T00:52:52.725Z",
-    "takenAt": "2026-11-10"
+    "takenAt": "2026-11-10",
+    "dayCover": true
   },
   {
     "filename": "mwbenmyg-13.jpg",
