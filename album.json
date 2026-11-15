@@ -16673,7 +16673,8 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mwhvv6u7-1.jpg",
     "caption": "",
     "addedAt": "2026-11-15T13:41:32.031Z",
-    "takenAt": "2026-11-13"
+    "takenAt": "2026-11-13",
+    "dayCover": true
   },
   {
     "filename": "mwhvv7v4-2.jpg",
@@ -16708,8 +16709,7 @@
     "url": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/album-images/mwhvvbz7-6.jpg",
     "caption": "",
     "addedAt": "2026-11-15T13:41:32.031Z",
-    "takenAt": "2026-11-13",
-    "dayCover": true
+    "takenAt": "2026-11-13"
   },
   {
     "filename": "mwhvvd2e-7.jpg",
