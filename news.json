@@ -48,15 +48,5 @@
     "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mvb738a3.png",
     "imagePath": "news-images/mvb738a3.png",
     "version": "v1.2.0"
-  },
-  {
-    "id": "mwwp49q6",
-    "tag": "TEST",
-    "title": "test",
-    "body": "test",
-    "date": "2026-11-25T22:29:12.126Z",
-    "image": "https://raw.githubusercontent.com/Mathys96/edora-modpack/main/news-images/mwwp49q6.png",
-    "imagePath": "news-images/mwwp49q6.png",
-    "version": null
   }
 ]
